@@ -44,7 +44,7 @@ function App() {
                 color="white"
                 float="right"
               >
-               <p style = {{fontSize:'1.4rem'}}> {t} </p>
+               <p style = {{fontSize:'1.4rem'}}> {t} MKD </p>
               </Box>
             </div>
           </div>
