@@ -33,11 +33,19 @@ export const electricity_bills = [
     paid:'No',
 },
 {
-    id:0,
+    id:5,
     month:'May',
     year:'2022',
     toBePaid:3444,
     spentKwh:100,
+    paid:'No',
+},
+{
+    id:6,
+    month:'June',
+    year:'2022',
+    toBePaid:12222,
+    spentKwh:200,
     paid:'No',
 }
 
